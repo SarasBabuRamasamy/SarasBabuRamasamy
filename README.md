@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics, Artificial Intelligence, Machine Learning and Social Robotics.
 - 🌱 I’m currently learning Advance Python programming.
 - 💞️ I’m looking to collaborate on any sustainability or green projects in environment, economy, and society.
-- 📫 How to reach me ... well you know that's very easy!
+- 📫 How to reach me ... well just a Goog search away!
 
 <!---
 SarasBabuRamasamy/SarasBabuRamasamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
