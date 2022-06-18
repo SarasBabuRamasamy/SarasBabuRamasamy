@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SarasBabuRamasamy
-- 👀 I’m interested in Data Analytics, Machine Learning, and Artificial Intelligence.
+- 👀 I’m interested in Data Analytics, Artificial Intelligence, Machine Learning and Social Robotics.
 - 🌱 I’m currently learning Advance Python programming.
-- 💞️ I’m looking to collaborate on sustainability or any green projects.
+- 💞️ I’m looking to collaborate on any sustainability or green projects in environment, economy, and society.
 - 📫 How to reach me ... well you know that's very easy!
 
 <!---
